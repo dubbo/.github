@@ -1,12 +1,12 @@
 Welcome to the Dubbo Community! Please notice that Dubbo is now a top level project under ASF 👋
 
 ## Getting started
-- [The Official Website](https://dubbo.apache.org/)
-- [Quick Start With Dubbo Initializer](https://start.dubbo.apache.org/)
-- [Learn Dubbo With Tasks](https://cn.dubbo.apache.org/zh-cn/overview/tasks/)
-- [Building Microservice Using Dubbo](https://cn.dubbo.apache.org/zh-cn/overview/quickstart/java/brief/)
-- [Using Dubbo For RPC Communication](https://cn.dubbo.apache.org/zh-cn/overview/core-features/protocols/)
-- [Visualize And Monitor Your Application](https://cn.dubbo.apache.org/zh-cn/overview/core-features/observability/)
+- [The official website](https://dubbo.apache.org/)
+- [Quick start with Dubbo initializer](https://start.dubbo.apache.org/)
+- [Learn Dubbo with tasks](https://cn.dubbo.apache.org/zh-cn/overview/tasks/)
+- [Building microservice using Dubbo](https://cn.dubbo.apache.org/zh-cn/overview/quickstart/java/brief/)
+- [Using Dubbo for RPC communication](https://cn.dubbo.apache.org/zh-cn/overview/core-features/protocols/)
+- [Visualize and monitor your application](https://cn.dubbo.apache.org/zh-cn/overview/core-features/observability/)
 
 ## Repositories
 
