@@ -12,9 +12,9 @@ Welcome to the Dubbo Community! Please notice that Dubbo is now a top level proj
 
 ### Framework Implementations
 
-- <a href="https://github.com/apache/dubbo" target="_blank">dubbo-java</a>
-- <a href="https://github.com/apache/dubbo-go" target="_blank">dubbo-go</a>
-- <a href="https://github.com/apache/dubbo-rust" target="_blank">dubbo-rust</a>
+- <a href="https://github.com/apache/dubbo" target="_blank">dubbo-java</a> - Check <a href="https://cn.dubbo.apache.org/zh-cn/overview/mannual/java-sdk/" target="_blank">sdk documention</a>
+- <a href="https://github.com/apache/dubbo-go" target="_blank">dubbo-go</a> - Check <a href="https://cn.dubbo.apache.org/zh-cn/overview/mannual/golang-sdk/" target="_blank">sdk documention</a>
+- <a href="https://github.com/apache/dubbo-rust" target="_blank">dubbo-rust</a> - Check <a href="https://cn.dubbo.apache.org/zh-cn/overview/mannual/rust-sdk/" target="_blank">sdk documention</a>
 - <a href="https://github.com/apache/dubbo-js" target="_blank">dubbo-js</a>
 - <a href="https://github.com/apache/dubbo-python" target="_blank">dubbo-python</a>
 
@@ -31,7 +31,11 @@ Welcome to the Dubbo Community! Please notice that Dubbo is now a top level proj
 ## Useful Links
 
 - <a href="https://cn.dubbo.apache.org/zh-cn/overview/what/overview/" target="_blank">Concept & Architecture</a>
-- <a href="https://github.com/apache/dubbo-go" target="_blank">dubbo-go</a>
-- <a href="https://github.com/apache/dubbo-rust" target="_blank">dubbo-rust</a>
-- <a href="https://github.com/apache/dubbo-js" target="_blank">dubbo-js</a>
-- <a href="https://github.com/apache/dubbo-python" target="_blank">dubbo-python</a>
+- <a href="https://cn.dubbo.apache.org/zh-cn/overview/core-features/service-discovery/" target="_blank">Service Discovery</a>
+- <a href="https://cn.dubbo.apache.org/zh-cn/overview/core-features/load-balance/" target="_blank">Load Balance</a>
+- <a href="https://cn.dubbo.apache.org/zh-cn/overview/core-features/traffic/" target="_blank">Traffic Management</a>
+- <a href="https://cn.dubbo.apache.org/zh-cn/overview/core-features/observability/" target="_blank">Observability</a>
+- <a href="https://cn.dubbo.apache.org/zh-cn/overview/core-features/security/" target="_blank">Security</a>
+- <a href="https://cn.dubbo.apache.org/zh-cn/overview/core-features/protocols/" target="_blank">RPC Protocols</a>
+- <a href="https://cn.dubbo.apache.org/zh-cn/overview/core-features/extensibility/" target="_blank">Extensibility</a>
+- <a href="https://cn.dubbo.apache.org/zh-cn/overview/core-features/more/" target="_blank">More Advanced Features</a>
